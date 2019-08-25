@@ -1,0 +1,12 @@
+{
+"currencies": [
+{
+"iso_code": "BTC",
+"name": "Bitcoin"
+},
+{
+"iso_code": "CAD",
+"name": "Canadian Dollar"
+}
+]
+}

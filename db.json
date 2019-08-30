@@ -1,8 +1,25 @@
 {
 "currencies": [
+  {
+"iso_code": "CHF",
+"name": "Swiss Franc"
+},
+    {
+"iso_code": "GBP",
+"name": "British Pound"
+}, {
+"iso_code": "CHF",
+"name": "Swiss Franc"
+},
 {
-"iso_code": "BTC",
-"name": "Bitcoin"
+"iso_code": "AUD",
+"name": "Australian Dollar"
+},  {
+"iso_code": "EUR",
+"name": "Euro"
+},{
+"iso_code": "USD",
+"name": "US Dollar"
 },
 {
 "iso_code": "CAD",
